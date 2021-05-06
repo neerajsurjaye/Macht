@@ -1,31 +1,39 @@
 {
   "files": {
-    "main.css": "./static/css/main.93da45f3.chunk.css",
-    "main.js": "./static/js/main.dd0cf02d.chunk.js",
-    "main.js.map": "./static/js/main.dd0cf02d.chunk.js.map",
+    "main.css": "./static/css/main.04ee353e.chunk.css",
+    "main.js": "./static/js/main.2fde51da.chunk.js",
+    "main.js.map": "./static/js/main.2fde51da.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.14142dc8.js",
     "runtime-main.js.map": "./static/js/runtime-main.14142dc8.js.map",
     "static/css/2.03e06a26.chunk.css": "./static/css/2.03e06a26.chunk.css",
-    "static/js/2.4845887e.chunk.js": "./static/js/2.4845887e.chunk.js",
-    "static/js/2.4845887e.chunk.js.map": "./static/js/2.4845887e.chunk.js.map",
+    "static/js/2.7e8e522b.chunk.js": "./static/js/2.7e8e522b.chunk.js",
+    "static/js/2.7e8e522b.chunk.js.map": "./static/js/2.7e8e522b.chunk.js.map",
     "index.html": "./index.html",
     "static/css/2.03e06a26.chunk.css.map": "./static/css/2.03e06a26.chunk.css.map",
-    "static/css/main.93da45f3.chunk.css.map": "./static/css/main.93da45f3.chunk.css.map",
-    "static/js/2.4845887e.chunk.js.LICENSE.txt": "./static/js/2.4845887e.chunk.js.LICENSE.txt",
+    "static/css/main.04ee353e.chunk.css.map": "./static/css/main.04ee353e.chunk.css.map",
+    "static/js/2.7e8e522b.chunk.js.LICENSE.txt": "./static/js/2.7e8e522b.chunk.js.LICENSE.txt",
+    "static/media/Cough.24da3940.svg": "./static/media/Cough.24da3940.svg",
+    "static/media/Fever.de31a8dd.svg": "./static/media/Fever.de31a8dd.svg",
+    "static/media/Social Distancing.8b0d0ec8.svg": "./static/media/Social Distancing.8b0d0ec8.svg",
     "static/media/blood-donation.80d8e38b.svg": "./static/media/blood-donation.80d8e38b.svg",
     "static/media/covid-pandemic.6704f78b.png": "./static/media/covid-pandemic.6704f78b.png",
+    "static/media/facemask.e133dece.svg": "./static/media/facemask.e133dece.svg",
+    "static/media/handwash.15494ff0.svg": "./static/media/handwash.15494ff0.svg",
+    "static/media/headache.754ba74f.svg": "./static/media/headache.754ba74f.svg",
     "static/media/hospital-bed.462295bb.svg": "./static/media/hospital-bed.462295bb.svg",
     "static/media/lunch-box.977327bf.svg": "./static/media/lunch-box.977327bf.svg",
     "static/media/menu.4dfd917f.svg": "./static/media/menu.4dfd917f.svg",
     "static/media/oxygen concentrator.204617e5.svg": "./static/media/oxygen concentrator.204617e5.svg",
     "static/media/oxygen.f3864046.svg": "./static/media/oxygen.f3864046.svg",
-    "static/media/site-logo.82c09899.png": "./static/media/site-logo.82c09899.png"
+    "static/media/site-logo.82c09899.png": "./static/media/site-logo.82c09899.png",
+    "static/media/sore throat.10cca70a.svg": "./static/media/sore throat.10cca70a.svg",
+    "static/media/stayhome.0b01ff80.svg": "./static/media/stayhome.0b01ff80.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.14142dc8.js",
     "static/css/2.03e06a26.chunk.css",
-    "static/js/2.4845887e.chunk.js",
-    "static/css/main.93da45f3.chunk.css",
-    "static/js/main.dd0cf02d.chunk.js"
+    "static/js/2.7e8e522b.chunk.js",
+    "static/css/main.04ee353e.chunk.css",
+    "static/js/main.2fde51da.chunk.js"
   ]
 }
